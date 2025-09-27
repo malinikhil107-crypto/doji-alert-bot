@@ -1,9 +1,8 @@
 requests
 pandas
-numpy
-pytz
 yfinance
-python-binance
 matplotlib
+python-telegram-bot
 apscheduler
-holidays
+binance
+pytz
