@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+pytz
+yfinance
+python-binance
+matplotlib
+apscheduler
+holidays
