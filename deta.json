@@ -1,0 +1,5 @@
+{
+  "name": "doji-bot",
+  "engine": "python3.9",
+  "run": "python main.py"
+}
